@@ -1,7 +1,7 @@
 :hourglass_flowing_sand: :hourglass_flowing_sand:
 
 # time-series-modeling 
-<p>A time-series modeling project to forecast quarterly revenue.</p>\
+<p>A time-series modeling project to forecast quarterly revenue.</p>
 <p>The project was made in a Jupyter Notebook environment using Python.</p>
 
 ## Business Question
@@ -26,3 +26,6 @@
     <li>Dotis-Georgiou, Anais. (2019). <em>Autocorrelation in Time Series Data.</em>www.influxdata.com/blog/autocorrelation-in-time-series-data.</li>
     <li>Dr. Avishek Pal, & Dr. PKS Prakash. (2017). <em>Practical Time Series Analysis : Step by Step Guide Filled with Real World Practical Examples</em>. Packt Publishing.</li>
 </ul>
+
+<sub>Social Preview Photo by <a href="https://unsplash.com/@andallthings?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">ethan</a> on <a href="https://unsplash.com/photos/VjdVTW6m-p0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></sub>
+  
